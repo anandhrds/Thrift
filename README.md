@@ -1,0 +1,2 @@
+# Thrift
+Temporary thrift files
